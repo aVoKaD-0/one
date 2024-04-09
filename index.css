@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+header {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+.header__ul {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
